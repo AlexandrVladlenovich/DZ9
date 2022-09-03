@@ -1,0 +1,15 @@
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\bin\Debug\net6.0\Zadacha070_FyncAkkermana.exe
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\bin\Debug\net6.0\Zadacha070_FyncAkkermana.deps.json
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\bin\Debug\net6.0\Zadacha070_FyncAkkermana.runtimeconfig.json
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\bin\Debug\net6.0\Zadacha070_FyncAkkermana.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\bin\Debug\net6.0\Zadacha070_FyncAkkermana.pdb
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\obj\Debug\net6.0\Zadacha070_FyncAkkermana.csproj.AssemblyReference.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\obj\Debug\net6.0\Zadacha070_FyncAkkermana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\obj\Debug\net6.0\Zadacha070_FyncAkkermana.AssemblyInfoInputs.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\obj\Debug\net6.0\Zadacha070_FyncAkkermana.AssemblyInfo.cs
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\obj\Debug\net6.0\Zadacha070_FyncAkkermana.csproj.CoreCompileInputs.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\obj\Debug\net6.0\Zadacha070_FyncAkkermana.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\obj\Debug\net6.0\refint\Zadacha070_FyncAkkermana.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\obj\Debug\net6.0\Zadacha070_FyncAkkermana.pdb
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\obj\Debug\net6.0\Zadacha070_FyncAkkermana.genruntimeconfig.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha070_FyncAkkermana\obj\Debug\net6.0\ref\Zadacha070_FyncAkkermana.dll

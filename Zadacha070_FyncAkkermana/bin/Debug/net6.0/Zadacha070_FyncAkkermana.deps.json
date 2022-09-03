@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zadacha070_FyncAkkermana/1.0.0": {
+        "runtime": {
+          "Zadacha070_FyncAkkermana.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadacha070_FyncAkkermana/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
