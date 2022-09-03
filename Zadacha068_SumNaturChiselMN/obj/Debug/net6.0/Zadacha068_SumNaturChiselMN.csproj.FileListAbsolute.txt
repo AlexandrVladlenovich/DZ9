@@ -1,0 +1,15 @@
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\bin\Debug\net6.0\Zadacha068_SumNaturChiselMN.exe
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\bin\Debug\net6.0\Zadacha068_SumNaturChiselMN.deps.json
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\bin\Debug\net6.0\Zadacha068_SumNaturChiselMN.runtimeconfig.json
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\bin\Debug\net6.0\Zadacha068_SumNaturChiselMN.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\bin\Debug\net6.0\Zadacha068_SumNaturChiselMN.pdb
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\obj\Debug\net6.0\Zadacha068_SumNaturChiselMN.csproj.AssemblyReference.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\obj\Debug\net6.0\Zadacha068_SumNaturChiselMN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\obj\Debug\net6.0\Zadacha068_SumNaturChiselMN.AssemblyInfoInputs.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\obj\Debug\net6.0\Zadacha068_SumNaturChiselMN.AssemblyInfo.cs
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\obj\Debug\net6.0\Zadacha068_SumNaturChiselMN.csproj.CoreCompileInputs.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\obj\Debug\net6.0\Zadacha068_SumNaturChiselMN.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\obj\Debug\net6.0\refint\Zadacha068_SumNaturChiselMN.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\obj\Debug\net6.0\Zadacha068_SumNaturChiselMN.pdb
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\obj\Debug\net6.0\Zadacha068_SumNaturChiselMN.genruntimeconfig.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha068_SumNaturChiselMN\obj\Debug\net6.0\ref\Zadacha068_SumNaturChiselMN.dll
