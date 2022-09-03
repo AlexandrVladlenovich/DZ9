@@ -1,0 +1,15 @@
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\bin\Debug\net6.0\Zadacha064_NaturChislaNM.exe
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\bin\Debug\net6.0\Zadacha064_NaturChislaNM.deps.json
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\bin\Debug\net6.0\Zadacha064_NaturChislaNM.runtimeconfig.json
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\bin\Debug\net6.0\Zadacha064_NaturChislaNM.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\bin\Debug\net6.0\Zadacha064_NaturChislaNM.pdb
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\obj\Debug\net6.0\Zadacha064_NaturChislaNM.csproj.AssemblyReference.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\obj\Debug\net6.0\Zadacha064_NaturChislaNM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\obj\Debug\net6.0\Zadacha064_NaturChislaNM.AssemblyInfoInputs.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\obj\Debug\net6.0\Zadacha064_NaturChislaNM.AssemblyInfo.cs
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\obj\Debug\net6.0\Zadacha064_NaturChislaNM.csproj.CoreCompileInputs.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\obj\Debug\net6.0\Zadacha064_NaturChislaNM.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\obj\Debug\net6.0\refint\Zadacha064_NaturChislaNM.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\obj\Debug\net6.0\Zadacha064_NaturChislaNM.pdb
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\obj\Debug\net6.0\Zadacha064_NaturChislaNM.genruntimeconfig.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ9\Zadacha064_NaturChislaNM\obj\Debug\net6.0\ref\Zadacha064_NaturChislaNM.dll
